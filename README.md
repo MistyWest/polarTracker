@@ -3,29 +3,7 @@
 This is the open-source repo for Polar Bear Tracker designed by MistyWest for the World Wildlife Fund and IDEO. 
 For more information see the [blog post](https://www.mistywest.com/posts/project/wwf-polar-bear-tracker/) from MistyWest on the project.
 
-
-## Current Status:
-- Device only seems to work when compiled under DEBUG mode in the Makefile.  Core issue is related to the interface between the nRF52 and ARTIC chip.
-
-
-## Documentation
-
-Doxygen is used to build the source code documentation. Go to the [downloads page](http://www.doxygen.nl/download.html), scroll down to **Sources and Binaries** and select the latest archive for Linux, Windows, or Mac.
-
-Or if on Linux, just do:
-
-```
-sudo apt install doxygen
-```
-
-To build the documentation:
-
-```
-cd _docs/
-doxygen
-```
-
-Then use your browser to open `_docs/html/index.html`.
+![Polar tracker](assets/WW02%20Bear%20Tag_Arctic_backup.108.png)
 
 ## Usage Guide
 
@@ -67,6 +45,30 @@ sdk_config.h
 
 #define NRFX_SAADC_ENABLED 1
 ```
+
+## Current Status:
+- Device only works when compiled under DEBUG mode in the Makefile.  Core issue is related to the interface between the nRF52 and ARTIC chip.
+
+
+## Documentation
+
+Doxygen is used to build the source code documentation. Go to the [downloads page](http://www.doxygen.nl/download.html), scroll down to **Sources and Binaries** and select the latest archive for Linux, Windows, or Mac.
+
+Or if on Linux, just do:
+
+```
+sudo apt install doxygen
+```
+
+To build the documentation:
+
+```
+cd _docs/
+doxygen
+```
+
+Then use your browser to open `_docs/html/index.html`.
+
 
 ## Contributors
 
