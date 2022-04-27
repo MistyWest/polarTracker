@@ -1,7 +1,10 @@
 # WWF ARGOS Tracker
 
-Current Status:
+This is the open-source repo for Polar Bear Tracker designed by MistyWest for the World Wildlife Fund and IDEO. 
+For more information see the [blog post](https://www.mistywest.com/posts/project/wwf-polar-bear-tracker/) from MistyWest on the project.
 
+
+## Current Status:
 - Device only seems to work when compiled under DEBUG mode in the Makefile.  Core issue is related to the interface between the nRF52 and ARTIC chip.
 
 
@@ -24,11 +27,10 @@ doxygen
 
 Then use your browser to open `_docs/html/index.html`.
 
+## Usage Guide
 
-
-
-### Usage Guide
 # main.c
+
 This is the starting/jump off point for the code. All major threads are started/initialized here.  
 You can control the sequence of thread start-up or enable/disable threads via 
 ```
@@ -71,3 +73,4 @@ sdk_config.h
 - Kevin Lockwood
 - Sean Edmond
 - Justin Lam
+- Nathan Van Rumpt
