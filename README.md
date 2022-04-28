@@ -73,6 +73,10 @@ Then use your browser to open `_docs/html/index.html`.
 ## Contributors
 
 - Kevin Lockwood
+- Daniel Law
+- Fred Huang
+- Victor Hu
+- John Turner
 - Sean Edmond
 - Justin Lam
 - Nathan Van Rumpt
