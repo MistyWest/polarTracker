@@ -71,7 +71,7 @@ Then use your browser to open `_docs/html/index.html`.
 
 
 ## Contributors
-
+MistyWest
 - Kevin Lockwood
 - Daniel Law
 - Fred Huang
@@ -80,3 +80,14 @@ Then use your browser to open `_docs/html/index.html`.
 - Sean Edmond
 - Justin Lam
 - Nathan Van Rumpt
+Fish & Wildlife Services
+- Ryan Wilson
+- Michelle St. Claire
+World Wildlife Fund
+- Elisabeth Kruger
+IDEO
+- Kayvon Shakeri
+- Peter Bronk
+Others
+- Remy Pieron
+- Phil Tsao
