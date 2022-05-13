@@ -1,6 +1,7 @@
 # WWF ARGOS Tracker
 
-This is the open-source repo for Polar Bear Tracker designed by MistyWest for the World Wildlife Fund and IDEO. 
+
+This is the open-source repo for Polar Bear Tracker designed by MistyWest and IDEO for the World Wildlife Fund and US Fish & Wildlife Services. 
 For more information see the [blog post](https://www.mistywest.com/posts/project/wwf-polar-bear-tracker/) from MistyWest on the project.
 
 ![Polar tracker](assets/WW02%20Bear%20Tag_Arctic_backup.108.png)
