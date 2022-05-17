@@ -99,7 +99,7 @@ MistyWest
 - Justin Lam
 - Nathan Van Rumpt
 - Ryan Wilson
-- Michelle St. Claire
+- Michelle St. Martin
 - Elisabeth Kruger
 - Kayvon Shakeri
 - Peter Bronk
