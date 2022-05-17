@@ -12,7 +12,17 @@ FWS |  MW | WWF
 # Usage Guide
 
 ## Quick Start
-
+### EE
+- [Design Files](Electrical/Design%20Files)
+- [PCB Output Files](Electrical/PCB%20Output%20Files)
+### ME
+- [Mold Files](Mechanical/Mold%20v3)
+### FW
+- [Bootloader](Firmware/wwf_bootloader)
+- [Firmware](Firmware/ww02Firmware)
+    > 1. Initially the board need to be flash using a J-link \
+      2.  Any addtionally changes can be be done with the NRF Connect app
+      >
 
 
 ## main.c
