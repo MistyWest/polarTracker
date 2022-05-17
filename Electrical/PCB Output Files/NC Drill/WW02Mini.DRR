@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB.PcbDoc   2020-09-14  9:26:40 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : WW02Mini-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             3         PTH        0.00inch (0.00mm)
+T2      8mil (0.203mm)                                            Round             347       PTH        0.00inch (0.00mm)
+T3      12mil (0.305mm)                                           Round             25        PTH        0.00inch (0.00mm)
+T4      16mil (0.406mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      39mil (0.991mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T7      70mil (1.778mm)                                           Round             3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              391
+
+Total Processing Time (hh:mm:ss) : 00:00:00

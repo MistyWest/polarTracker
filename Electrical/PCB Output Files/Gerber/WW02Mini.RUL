@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: D:\Altium\WW02_Mini\PCB.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit_SB|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_SB|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_to_keepout|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=InnerLayer_Width|Scope=Board|Minimum=8.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=OuterLayer_Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=OuterLayer|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=InnerLayer|Scope=Board|Minimum=8.00

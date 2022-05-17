@@ -4,11 +4,18 @@
 This is the open-source repo for Polar Bear Tracker designed by MistyWest and IDEO for the World Wildlife Fund and US Fish & Wildlife Services. 
 For more information see the [blog post](https://www.mistywest.com/posts/project/wwf-polar-bear-tracker/) from MistyWest on the project.
 
-![Polar tracker](assets/WW02%20Bear%20Tag_Arctic_backup.108.png)
+![Polar tracker](assets/WW02%20Bear%20Tag_Arctic_backup.128_crop.png)
+FWS |  MW | WWF
+:-------------------------:|:-------------------------:|:-------------------------:
+![FWS](assets/US-FWS-logo.png)  |  ![MistyWest](assets/MistyWestLogo.png) | ![WWF](assets/panda.png)
 
-## Usage Guide
+# Usage Guide
 
-# main.c
+## Quick Start
+
+
+
+## main.c
 
 This is the starting/jump off point for the code. All major threads are started/initialized here.  
 You can control the sequence of thread start-up or enable/disable threads via 
@@ -16,7 +23,7 @@ You can control the sequence of thread start-up or enable/disable threads via
 project_settings.h
 ```
 
-# Logging/CLI
+## Logging/CLI
 These are actually two different components.  
 CLI is a command line interface which allows for manual
 control.  This can be used for debugging and/or user interface.  You can send Text to the terminal
@@ -38,7 +45,7 @@ sdk_config.h
 #define NRF_LOG_BACKEND_RTT_ENABLED (0:1)
 ```
 
-# ADC
+## ADC
 The ADC thread uses the Nordic SAADC peripheral driver and is provided as an example of ADC usage.
 SAADC must be enabled in the SDK Config file
 ```
